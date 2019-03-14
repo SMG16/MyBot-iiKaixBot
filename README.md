@@ -1,2 +1,1 @@
-# Probot ✨
-Epic Discord Bot
+# iiKaixBot
